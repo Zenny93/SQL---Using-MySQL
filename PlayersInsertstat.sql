@@ -1,0 +1,22 @@
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID) VALUES (1,'Mason','Mount',23, 19, 1 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID, Injury_ID) VALUES (2,'Ben','Chilwell',25, 21, 1, 2 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID, Injury_ID) VALUES (3,'Reece','James',24, 24, 1,3);
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID) VALUES (4,'Thiago','Silva',38, 6, 1 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID) VALUES (5,'Pierre-Emerick','Aubameyang',33, 9, 1 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID) VALUES (6,'Ben','White',25, 4, 2 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID) VALUES (7,'Thomas','Partey',29, 5, 2 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID,Injury_ID) VALUES (8,'Gabriel','Jesus',25, 9, 2, 5 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID) VALUES (9,'Gabriel','Martinelli',21, 11, 2 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID) VALUES (10,'Virgil','van Dijk',31, 4, 5 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID) VALUES (11,'Mohamed','Salah',30, 11, 5 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID, Injury_ID) VALUES (12,'Diogo','Jota',26, 20, 5, 8 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID) VALUES (13,'James','Milner',36, 7, 5 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID) VALUES (14,'Kyle','Walker',32, 2, 3 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID) VALUES (15,'IIkay','Gundogan',32, 8, 3 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID) VALUES (16, 'Phil','Foden',22, 47, 3 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID) VALUES (17, 'Kevin','De Bruyne',31, 17, 3 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID, Injury_ID) VALUES (18, 'Diogo','Dalot',23, 20, 4, 11 );
+INSERT INTO Players(Player_ID, Player_fname, Player_lname, Player_age, Player_jerseynum, Team_ID) VALUES (19, 'Marcus','Rashford',25, 10, 4 );
+INSERT INTO Players(Player_ID, Player_lname, Player_age, Player_jerseynum, Team_ID) VALUES (20, 'Casemeiro',30, 18, 4 );
+INSERT INTO Players(Player_ID, Player_fname, Player_age, Player_jerseynum, Team_ID) VALUES (21, 'Antony',22, 21, 4 );
+

@@ -1,0 +1,1 @@
+INSERT INTO Recipes(RecipeID, RecipeTitle, RecipeClassID, Preparation, Notes) VALUES (1, 'Nigerian Stew', 1, 'Blend red bell pepers and tomatoes, and boil puree, then add cooked meat of choice', 'Do not boil puree completely dry');
